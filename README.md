@@ -3,8 +3,8 @@ PHP authentication program using SQL and PHP.
 
 ## SQL Database Setup
 * user: "root"
-* database name: "access"
+* database name: "main"
 * password: ""
 ### Table
-* table name: "users"
+* table name: "phpLogin"
 * rows: id(key), username, password
