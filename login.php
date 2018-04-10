@@ -1,8 +1,7 @@
 <html lang="en">
 	<head>
 		<link rel="icon" type="image/ico" href="">
-		<link rel="stylesheet" type="text/css" href="css/w3.css">
-		<link rel="stylesheet" type="text/css" href="css/custom.css">
+		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 		<title>Login</title>
 		<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="96x96" href="img/favicon-96x96.png">
